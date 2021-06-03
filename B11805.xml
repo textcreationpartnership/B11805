@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the setling and establishing of the manor of Sundrish, alias Sundridge, with the appurtenances in the countie of Kent, vpon Thomas Browker esquire and his heires, against a patent of concealement lately made an granted to George Fouch and Nicholas Streete and their heires.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11805</idno><idno type="EEBO-CITATION">99892837</idno>
+  <idno type="VID">189122</idno>
+  <idno type="EEBO-PROQUEST">2264173069</idno>
+  
+            <idno type="STC">STC 3902.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7615[227]</idno>
+            <idno type="PROQUEST">ocm99892837</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892837e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189122)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:3[91])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the setling and establishing of the manor of Sundrish, alias Sundridge, with the appurtenances in the countie of Kent, vpon Thomas Browker esquire and his heires, against a patent of concealement lately made an granted to George Fouch and Nicholas Streete and their heires.</title>
+                  <author>England and Wales.</author>
+                  <author>Browker, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1629]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The bill was read 13. Feb. 1629.--STC.</note>
+                  <note>Apparently not enacted.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Manors --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act_of_settlement">
+            <pb facs="tcp:189122:1"/>
+            <head>❧ An Act for the setling and establishing of the Manor of Sundrish, <hi>alias</hi> Sundridge, with the appurtenances in the Countie of <hi>Kent,</hi> vpon <hi>Thomas Browker</hi> Esquire and his heires, against a Patent of Concealement lately made and granted to <hi>George Fouch</hi> and <hi>Nicholas Streete</hi> and their heires.</head>
+            <p>1<seg rend="sup">o</seg>. <hi>MAriae,</hi> Sir <hi>Henry Isley</hi> Knight, seized in fee of the Manors of <hi>Sutton Ʋalence, Brasted,</hi> and <hi>Sundrish</hi> in Kent, with diuers other Lands, was vpon his ioyning in <hi>Wyatts</hi> Commotion attainted of high Treason, and executed, and all the said Manors and Lands forfeited to the Crowne.</p>
+            <p>1 &amp; 2 <hi>Phil. &amp; Mar.</hi> all the said Manors and Lands were for 1000l. conueyed from the Crowne to <hi>William Isley</hi> his Sonne in Fee vnder the fee farme rent of 22<seg rend="sup">l</seg>. 12<seg rend="sup">s</seg>. <hi>per annum.</hi>
+            </p>
+            <p>2 <hi>Eliz. William Isley</hi> (as surety for one <hi>Thomas Bowes)</hi> became indebted to the Crowne in 3644<seg rend="sup">l</seg>. 18<seg rend="sup">s</seg>. 4<seg rend="sup">d</seg>. which was installed to be paid by 100<seg rend="sup">l</seg>. <hi>per annum,</hi> halfe yeerely.</p>
+            <p>For security of this installed debt, <hi>William Isley,</hi> by fine and other assurances 3 <hi>Eliz.</hi> conueyed the said Manors to <hi>William</hi> Marquesse of <hi>Winchester</hi> (then Lord Treasurer of <hi>England)</hi> Sir <hi>Richard Sackuile</hi> Knight (vnder Treasurer) Sir <hi>Walter Mildmay</hi> Chancellor of the Exchequer, and diuers others (being of the Queenes learned Counsell) and their heires, to the vse of <hi>William Isley</hi> and his heires till default of paiment were made of any part of the said installed debt contrary to the said instalment, and vpon default, to the vse of the Crowne till the said installed debt were leuied out of the rents and profits, or otherwise satisfied; and then to the vse of the said <hi>William Isley</hi> his heires and assignes.</p>
+            <p>
+               <hi>William Isley</hi> paid 1044<seg rend="sup">l</seg>. 18<seg rend="sup">s</seg>. 4<seg rend="sup">d</seg>. of the installed debt (so as there remained onely vnpaid 2600<seg rend="sup">l</seg>.) but being then indebted to others in 10000<seg rend="sup">l</seg>. and all his said lands being variously in<g ref="char:EOLhyphen"/>combred. And desirous to sell part of those lands for paiment thereof, he by his deed dated 8. <hi>Febr.</hi> 14. <hi>Eliz.</hi> and inrolled in Chancery, absolutely released to the Crowne all his right, title, and demand to those Manors.</p>
+            <p>The onely intention of this Release was to enable a freer fale for paiment of his debts, by vesting the absolute fee in the Crowne, that so (the said 2600<seg rend="sup">l</seg>. being secured to the Crowne) the purchaser might by an immediate conueiance from the Crowne haue a cleare title discharged of all <hi>William Isleyes</hi> incombrances (which were many) but was neuer intended for a<g ref="char:EOLhyphen"/>ny further benefit to the Crowne then the paiment of the said 2600<seg rend="sup">l</seg>. as plainly appeareth by these reasons.</p>
+            <p>First, the inheritance of those Manors so released, were then worth 8000<seg rend="sup">l</seg>. at the least.</p>
+            <p>Secondly, Queene <hi>Eliz.</hi> 8. <hi>Iuly</hi> next after (vpon a bargaine between <hi>Willam Isley</hi> and <hi>S<seg rend="sup">r</seg> Row. Hayward)</hi> by the aduise of the Lord Treasurer <hi>Burghley,</hi> and of the said Sir <hi>Walter Mildmay</hi> (a party to the said conueiance made 3 <hi>Eliz.)</hi> conueied all the said Manors to Sir <hi>Row. Hayward</hi> in fee, paying to the Crowne onely the said arrere (being 2600<seg rend="sup">l</seg>. by 100<seg rend="sup">l</seg>. <hi>per annum</hi> accor<g ref="char:EOLhyphen"/>ding to the instalment; and after <hi>Isley</hi> and Sir <hi>Row. Hayward</hi> breaking off their bargaine Sir <hi>Rowl.</hi> 11 <hi>Decemb.</hi> 15. <hi>Eliz.</hi> reconueied all the said Manors to the Crowne.</p>
+            <p>Thirdly. 13. <hi>Decemb.</hi> 15. <hi>Eliz.</hi> being but two daies after the said reconueiance. Queene <hi>Eliz.</hi> demised all the premisses to <hi>Tho. Guilford</hi> nominated and trusted for <hi>Isley. Habend.</hi> from Mich. before for so long as the same ought to remaine in the Crowne for paiment of the arrerage of the said installed debt, reseruing 100<seg rend="sup">l</seg>. <hi>per annum</hi> payable at the times in the instalment li<g ref="char:EOLhyphen"/>mitted. In which demise, <hi>Guilford</hi> couenanteth to account yearely at the Exchequer for all the profits of the premisses, and vpon euery such account (the said Rent of 100<seg rend="sup">l</seg>. <hi>per annum</hi> and his charges in collecting the rents and accounting allowed) to pay the residue to <hi>Isleyes</hi> creditors at the appointment of the Lord Treasurer and Chancellor of the Exchequer for the time being.</p>
+            <p>Fourthly, <hi>William Isley</hi> being pressed with a debt to other persons of 10000<seg rend="sup">l</seg>. and finding purchasors timorous to buy in regard of the many incumbrances, at the Parliament 18. <hi>Eliz.</hi> procured an Act whereby the said Lord <hi>Burghley,</hi> Sir <hi>Walter Mildmay,</hi> and diuers other persons of honour and eminency were authorized to sell so much of the premisses as they should thinke fit, and with the money to pay <hi>Isleyes</hi> debts, wherein especiall prouision is made that no more of the said premisses should be sold, but that there might still remaine vnsold lands of the cleare yearly value of 100<seg rend="sup">l</seg>. for paiment of the arrere of the said installed debt. And there is one intent expressed in that Act, though not prouided for in the body thereof, <hi>viz.</hi> that the ouerplus of the premises remaining, after the debts and duties paid, might remaine to <hi>Isley</hi> and his heires. And by force of that Act, the said Manors of <hi>Brasted</hi> and <hi>Sutton valence</hi> were sold, and are to this day vnder such sale enioyed.</p>
+            <p>
+               <hi>VVilliam Isley</hi> enioyed the residue left vnsold, paid the said yearly rent of 100<seg rend="sup">l</seg>. according to the said instalment and the fee farme of 22<seg rend="sup">l</seg>. 12<seg rend="sup">s</seg>. <hi>per annum,</hi> and about 34 <hi>Eliz.</hi> died, and <hi>Henry Isley</hi> his sonne and heire entred into and enioyed all the said Lands left vnsold, duely paid both the said installed and fee farme Rent, till the whole installed debt of 3644<seg rend="sup">l</seg>. 18<seg rend="sup">s</seg>. 4<seg rend="sup">d</seg>. was in <hi>Decemb.</hi> 39. <hi>Eliz.</hi> fully paid, and thereupon had his <hi>Quietus est</hi> vnder the Exchequer seale, reciting the said assurance of 3 <hi>Eliz.</hi> and that the said debt was then fully paid.</p>
+            <p>
+               <hi>Henry Isley</hi> 19 <hi>Eliz.</hi> was indicted for fiue Robberies committed 17 <hi>Eliz.</hi> and obtained his pardon 30 <hi>May</hi> 20 <hi>Eliz.</hi> of them and of all Outlawries then or after to be promulged for the same: and after his said fathers death, entred as his Sonne and heire, enioyed the Lands, and was during his life esteemed the true owner of them.</p>
+            <p>25 <hi>Feb.</hi> 41 <hi>Eliz. Henry Isley</hi> made his last Will in writing, thereby deuising the said Manor of <hi>Sundrish</hi> to <hi>Iane</hi> his wife and her heires for paiment of his debts, and for portions for <hi>Vr<g ref="char:EOLhyphen"/>sula</hi> and <hi>Ʋna</hi> his reputed daughters, and dyed in possession of the said Manor. <hi>Iane</hi> entered thereinto and intermarried with <hi>William Meysey</hi> Esquire, and they for performance of the said Will, conueyed the said Manor to <hi>Williom Harlow</hi> in fee, who re-conueyed it to <hi>William Meysey</hi> and <hi>Robert Herle,</hi> and to the heires of <hi>Meysey,</hi> who for valuable consideration in mo<g ref="char:EOLhyphen"/>ney got assurances from <hi>Reginald Peckham</hi> (Sonne and heire of <hi>Anne)</hi> and from <hi>Katherine Beeseley</hi> two of the sisters and coheires of the said <hi>Henry Isley,</hi> of all their right in that Manor.</p>
+            <p>Afterwards <hi>Hugh Browker</hi> the Petitioners Father for 2040<seg rend="sup">l</seg>. purchased the same Manor of <hi>Meysey</hi> and <hi>Herle,</hi> not knowing of the said absolute release of 8 <hi>Febr.</hi> 14 <hi>Eliz.</hi> but being onely made acquainted with the other assurances of 3 <hi>Eliz. Guilfords</hi> Lease, and with the Act of 18. of <hi>Eliz.</hi> And was also acquainted onely with the said Pardon, and not with any the subsequent Outlawries. Hereupon, in confidence of the Title, the said <hi>Hugh Browker</hi> and the Petitioner haue bestowed aboue 2000<seg rend="sup">l</seg>. more in building vpon the Manor. And the Pe<g ref="char:EOLhyphen"/>titioner then very yong, was vpon the death and discent of the said Manor of and from his said Father many <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his late Maiesty for the same Manor.</p>
+            <p>That the Petitioner after his full age was enforced to compound with one <hi>Michael Blackwell</hi> another of <hi>Henry Isleys</hi> Coheires for his title to a ninth part of the said Manor, for which (in respect of the tenure) <hi>Henry Isleyes</hi> Will proued void, and vpon that composition paid him 270<seg rend="sup">l</seg>. and had from him a Fine, with other assurances with Couenants for further assu<g ref="char:EOLhyphen"/>rance. Wherein one <hi>William Wise</hi> a Councellor at Law was of Councell with <hi>Blackwell</hi> (as formerly he had beene in his other suit against the Petitioner) and was priuy to the compositi<g ref="char:EOLhyphen"/>on and paiment of the said 270<seg rend="sup">l</seg>.</p>
+            <p>That before this composition and paiment, <hi>Wise</hi> (solliciting <hi>Blackwels</hi> said former suit against the Petitioner) had vpon search discouered the said absolute release of 8 <hi>Feb.</hi> 14 <hi>Eliz.</hi> and fiue seueral Outlawries of <hi>Henry Isley</hi> vpon the robberies aforesaid returned into the Kings Bench, &amp; pronounced about 3 months after his pardon, &amp; thereupon had drawn <hi>Michaell Olds<g ref="char:EOLhyphen"/>worth</hi> Esquire to procure a Patent of concealement dated 26 <hi>August.</hi> 22. <hi>Iat.</hi> whereby the said Manor of <hi>Sundrish</hi> with all the arrerages then incurred, were granted to <hi>George Fouch</hi> and <hi>Nicholas Streete</hi> and their heires in trust for <hi>Michael Oldsworth,</hi> which Patent <hi>Wise</hi> knew to be passed the great Seale long before the Petitioners said Composition with <hi>Blackwell,</hi> but yet concealed it till the said 270<seg rend="sup">l</seg>. was paid.</p>
+            <p>
+               <hi>Wise,</hi> presently after paiment of the said 270<seg rend="sup">l</seg>. aduised Master <hi>Oldsworth</hi> to make entries vpon this Manor, and to bring an <hi>eiectione firme</hi> thereupon in the Exchequer, where, vpon the Tryall he produced the absolute Release (neuer before then heard of by the Petitioner) alleadging the same to haue beene made for the benefit of the Crowne onely, and not for any the ends or vses before mentioned, and thereupon had Verdict and Iudgement with a <hi>Cesset executie,</hi> till further examination of the cause.</p>
+            <p>And <hi>Wise</hi> knowing the said Outlawries to haue beene both subsequent to the Pardon, and in themselues apparantly erronious, and for those errors easily reuersable: for preuention thereof Master <hi>Oldsworth</hi> by his aduise hath procured Releases to the Patentees from <hi>Reginald Peckham</hi> (the foresaid <hi>Reginald Peckhams</hi> sonne and heire) contrary to his Fathers assuran<g ref="char:EOLhyphen"/>ces and agreement, and from <hi>Michael Blackwell,</hi> contrary to his owne composition and assurances aforesaid: and also Releases to his Maiesty from them, as heires to <hi>Henry Isley</hi> of all errors in the said Outlawries (the said <hi>Katherine Beeseley</hi> being dead without issue) and the said <hi>Blackwell</hi> since his said Composition, by the aduise of the said <hi>Wise,</hi> tooke letters of Ad<g ref="char:EOLhyphen"/>ministration of the goods of <hi>Henry Isley</hi> not administred by <hi>Iane</hi> his Executrix deceased: and the said <hi>Blackwell</hi> as Administrator hath made other Releases of errors to his Maiesty, without any other consideration then to preiudice the Petitioner, the said <hi>Blackwell</hi> being a suiter to his Maiesty to accept those releases, whereby the Petitioner in point of priuity is dis<g ref="char:EOLhyphen"/>abled to bring writs of Error either in the heires name, or as Administrator.</p>
+            <p>That his Maiesty was graciously pleased to giue way to the Petioners prosecution of writs of error as terretenant, who to his excessiue charge sued out 5. seuerall writs of error, and them prosecuted in the Kings Bench. But Master <hi>Oldsworth</hi> by aduise of <hi>Wise,</hi> hath brought 5. seuerall writs vnder the great seale to command stay of further prosecution <hi>rege in consulto.</hi>
+            </p>
+            <p>That howsoeuer a pretence be made of his Maiesties profit by an increase of 20<seg rend="sup">l</seg>. yearly rent in the said Patent, yet no part therof hath beene euer paid, nor is it put in charge. But <hi>Wise</hi> for Master <hi>Oldsworth</hi> vpon tender of composition, hath offred to procure a discharge of that rent, so, as it is intended onely for their owne priuate ends, not really for his Maiesties profit.</p>
+            <p>That the Petitioner by the extreame charge of these suits is like to be impouerished, and by doubt in Law whether a Terretenant may maintaine a Writ of Error, is in danger vniust<g ref="char:EOLhyphen"/>ly to be disherited.</p>
+            <p>For preuention whereof, and discharge of the trust reposed in the Crown by <hi>Willi. Isley.</hi> It is humbly prayed, it may be declared, adiudged &amp; enacted, that the said late Queene by the true meaning of the said release, was to take no other benefit thereby then onely for satisfaction of the arrere of the said installed debt, being 2600<seg rend="sup">l</seg>. and that after satisfaction of the said 2600<seg rend="sup">l</seg>. then <hi>William Isley</hi> and his heires and assignes might haue and enioy the said Manors, any thing in the said release to the contrary notwithstanding. And that the Outlawries shall be holden void both in regard of the Pardon aforesaid, and for the apparant errors therein, and that the Petitioner and his heires may enioy the said Manor of <hi>Sundrish</hi> against the Pa<g ref="char:EOLhyphen"/>tentees, <hi>Reginald Peckham, Michael Blackwell,</hi> and Master <hi>Oldsworth,</hi> and euery of them, and all claiming vnder them; and also against his Maiestie, his heires and successours claiming onely by the said absolute Release and attainders, and that no execution shall be had vpon the said Iudgement in the Exchequer. With a sauing to his Maiesty of all right, except by the said absolute release and other assurances of <hi>William Isley,</hi> made for securing the said enstalled debt, and except by the attainders by the said Outlawries. And with a sauing of right to all others except the Patentees, <hi>Peckam, Blackwell,</hi> and <hi>Oldsworth,</hi> and all claiming by or vnder them.</p>
+            <pb facs="tcp:189122:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
